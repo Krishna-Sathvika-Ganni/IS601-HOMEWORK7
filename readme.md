@@ -28,3 +28,8 @@
 ![Screenshot 2025-03-31 at 11 51 35 PM](https://github.com/user-attachments/assets/c0b6d5a1-bf5b-42db-a94c-2cc431295766)
 
 
+- Running the Container with Default Settings
+
+```
+    docker run -d --name qr-generator my-qr-app
+```
