@@ -25,4 +25,6 @@
     docker build -t my-qr-app .
 ```
 
+![Screenshot 2025-03-31 at 11 51 35 PM](https://github.com/user-attachments/assets/c0b6d5a1-bf5b-42db-a94c-2cc431295766)
+
 
