@@ -1,6 +1,6 @@
 # Use the official Python image from the Python Docker Hub repository as the base image
 FROM python:3.12-slim-bullseye
- 
+
 # Set the working directory to /app in the container
 WORKDIR /app
 
@@ -23,8 +23,8 @@ COPY --chown=myuser:myuser . .
 # Switch to the 'myuser' user to run the application
 USER myuser
 
-# Set the entrypoint as the Python interpreter
-ENTRYPOINT ["python"]
-
-# Set the default command to run the main.py script, which starts the application
-CMD ["main.py"]
+# Use the Python interpreter as the entrypoint and the script as the first argument
+# This allows additional command-line arguments to be passed to the script via the docker run command
+ENTRYPOINT ["python", "main.py"]
+# this sets a default argument, its also set in the program but this just illustrates how to use cmd and override it from the terminal
+CMD ["--url","https://github.com/Krishna-Sathvika-Ganni/IS601-HOMEWORK71.git"]
