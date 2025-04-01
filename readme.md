@@ -33,3 +33,5 @@
 ```
     docker run -d --name qr-generator my-qr-app
 ```
+
+![Screenshot 2025-04-01 at 12 23 20 AM](https://github.com/user-attachments/assets/6db6f909-24b1-44b6-ad6c-b6faba70ad18)
