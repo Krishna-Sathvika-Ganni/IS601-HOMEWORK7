@@ -6,3 +6,5 @@ REQUIRED SUBMISSIONS: <br>
 
 ![MyQRCode](https://github.com/user-attachments/assets/e06b044e-5974-4e81-88a2-decfde6da78a)
 
+2.) Adding an image of viewing the log of successfully creating the QR code below:
+
