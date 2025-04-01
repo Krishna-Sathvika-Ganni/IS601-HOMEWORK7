@@ -8,4 +8,12 @@ REQUIRED SUBMISSIONS: <br>
 
 2.) Adding an image of viewing the log of successfully creating the QR code below:
 
+- In VS code terminal:
+
 ![Screenshot 2025-03-31 at 11 53 49 PM](https://github.com/user-attachments/assets/d125254a-2051-4cff-a3ef-9583604a1df0)
+
+
+- In Docker container:
+
+![Screenshot 2025-03-31 at 11 58 06 PM](https://github.com/user-attachments/assets/564acb7b-8a74-44f7-986f-0e84a79b7c58)
+
