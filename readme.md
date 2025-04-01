@@ -8,3 +8,4 @@ REQUIRED SUBMISSIONS: <br>
 
 2.) Adding an image of viewing the log of successfully creating the QR code below:
 
+![Screenshot 2025-03-31 at 11 53 49 PM](https://github.com/user-attachments/assets/d125254a-2051-4cff-a3ef-9583604a1df0)
