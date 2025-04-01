@@ -10,12 +10,13 @@
 
 - In VS code terminal:
 
-![Screenshot 2025-03-31 at 11 53 49 PM](https://github.com/user-attachments/assets/d125254a-2051-4cff-a3ef-9583604a1df0)
+![Screenshot 2025-04-01 at 12 28 31 AM](https://github.com/user-attachments/assets/c5dac65c-8b4b-4188-a5fc-345aeb1fff19)
 
 
 - In Docker container:
 
 ![Screenshot 2025-03-31 at 11 58 06 PM](https://github.com/user-attachments/assets/564acb7b-8a74-44f7-986f-0e84a79b7c58)
+
 
 ## Outputs of commands:
 
@@ -25,7 +26,8 @@
     docker build -t my-qr-app .
 ```
 
-![Screenshot 2025-03-31 at 11 51 35 PM](https://github.com/user-attachments/assets/c0b6d5a1-bf5b-42db-a94c-2cc431295766)
+![Screenshot 2025-04-01 at 12 27 42 AM](https://github.com/user-attachments/assets/fecd4cac-6124-48bf-a853-aaf1a8442c66)
+
 
 
 - Running the Container with Default Settings
@@ -34,8 +36,9 @@
     docker run -d --name qr-generator my-qr-app
 ```
 
-![Screenshot 2025-04-01 at 12 23 20 AM](https://github.com/user-attachments/assets/6db6f909-24b1-44b6-ad6c-b6faba70ad18)
+![Screenshot 2025-04-01 at 12 28 00 AM](https://github.com/user-attachments/assets/dd211024-94fd-494a-8aaf-93bb91e060fb)
 
 
-![Screenshot 2025-03-31 at 11 56 16 PM](https://github.com/user-attachments/assets/1a465de7-28ed-498d-a716-488e7161dbb0)
+![Screenshot 2025-04-01 at 12 28 48 AM](https://github.com/user-attachments/assets/13019be5-6131-4fc5-9a84-9b9bbd17c605)
+
 
